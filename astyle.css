@@ -1,0 +1,38 @@
+.start{
+    width: 70px;px;
+    max-width: 1000px;
+
+    display: flex;
+    justify-content: space-betweens;
+    flex-direction: column;}
+    
+
+.h{
+    text-align: center;
+    margin-right: auto;
+
+}
+.flex{
+   
+    display: flex;
+    justify-content: space-between;
+    width: 315px;
+    height: 200px;
+    max-width: 300px;
+    
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+.border{
+    color: darkseagreen;
+    margin-bottom: 0s;
+
+    
+}
+.p{
+    align-items: center;
+
+}
+x
+
